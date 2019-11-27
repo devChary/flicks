@@ -1,0 +1,1 @@
+export default () => <div>Baby Steps in React in Next.js</div>
